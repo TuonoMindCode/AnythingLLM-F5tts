@@ -4,12 +4,16 @@ install windows and linux
 -------------------------
 
 conda create -n anything python=3.10
+
 conda activate anything
+
 pip install -r requirements.txt
+
 python anythingllm_messages.py
 
 next time to start the app in the anything directory:
 conda activate anything
+
 python anythingllm_messages.py
 
 first time you start the app it creates "config_f5tts_any.txt"
