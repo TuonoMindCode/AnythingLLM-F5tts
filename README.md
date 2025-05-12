@@ -61,6 +61,10 @@ answer: Within the configuration menu, input numbers do not seem to produce any 
 Enter the required number for your desired setting.
 Press Enter to confirm your selection and continue.
 
+Credits and AI-Generated Code Disclaimer
+Some parts of this project were generated using an AI tool. The majority of the code was developed with the assistance of ChatGPT (or other AI tools). This process helped streamline initial development but may require additional human refinement and optimization to achieve desired functionality.
+
+
 email: tuonomindcode@bahnhof.se
 
 <a href='https://ko-fi.com/T6T21EVI5G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
