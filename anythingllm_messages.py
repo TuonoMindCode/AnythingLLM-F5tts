@@ -1,3 +1,7 @@
+"""
+AnythingLLM Voice Monitor v1.0
+A tool to monitor AnythingLLM chat messages and convert them to speech using F5-TTS.
+"""
 import requests
 import time
 import json
