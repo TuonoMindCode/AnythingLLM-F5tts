@@ -1,0 +1,4 @@
+gradio_client==1.10.0
+playsound3==3.2.3
+pywin32==310; platform_system=="Windows"
+Requests==2.32.3
