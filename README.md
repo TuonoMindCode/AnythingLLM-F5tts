@@ -2,7 +2,12 @@
 
 ![image alt](https://github.com/TuonoMindCode/AnythingLLM-F5tts/blob/77a6b833dcf79a3340d80d1b67264049914da4df/anythingf5tts.PNG)
 
-
+@article{chen-etal-2024-f5tts,
+      title={F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching}, 
+      author={Yushen Chen and Zhikang Niu and Ziyang Ma and Keqi Deng and Chunhui Wang and Jian Zhao and Kai Yu and Xie Chen},
+      journal={arXiv preprint arXiv:2410.06885},
+      year={2024},
+}
 
 install windows and linux
 -------------------------
