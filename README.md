@@ -67,6 +67,18 @@ Credits and AI-Generated Code Disclaimer
 Some parts of this project were generated using an AI tool. The majority of the code was developed with the assistance of ChatGPT (or other AI tools). This process helped streamline initial development but may require additional human refinement and optimization to achieve desired functionality.
 
 
+## Citation
+> If you use F5-TTS in your work, please cite:
+
+@article{chen-etal-2024-f5tts,
+      title={F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching}, 
+      author={Yushen Chen and Zhikang Niu and Ziyang Ma and Keqi Deng and Chunhui Wang and Jian Zhao and Kai Yu and Xie Chen},
+      journal={arXiv preprint arXiv:2410.06885},
+      year={2024},
+}
+
+
+
 email: tuonomindcode@bahnhof.se
 
 <a href="https://www.buymeacoffee.com/tuonomindc4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
